@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-07-26T17:47:42.336005",
+  "evaluation_summary": {},
+  "r1a_results": {
+    "files_processed": 2,
+    "problematic_files": []
+  },
+  "r1b_results": {
+    "files_processed": 1
+  },
+  "multilingual_validation": {},
+  "recommendations": []
+}

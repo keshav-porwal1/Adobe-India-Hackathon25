@@ -1,0 +1,405 @@
+{
+  "title": "Overview  Foundation Level Extensions  ",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Overview  Foundation Level Extensions  Version 1.0  International Software Testing Qualifications Board ",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "International ",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Overview ",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Software Testing  Foundation Level Extension –  Agile Tester  Qualifications Board ",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Revision History ",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Table of Contents ",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Revision History  ..........................................................................................................................................  Table of Contents  ........................................................................................................................................ ",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "1. ",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Introduction to the Foundation Level Extensions  ............................................................................ ",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "2. ",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Introduction to Foundation Level Agile Tester Extension  ...............................................................  2.1  Intended Audience ",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "..................................................................................................................... ",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "2.2  Career Paths for Testers ",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "............................................................................................................ ",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "2.3  Learning Objectives ",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "................................................................................................................... ",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "2.4  Entry Requirements ",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "2.5  Structure and Course Duration ",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "................................................................................................... ",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "2.6  Keeping It Current ",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "...................................................................................................................... ",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "3. ",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Overview of the Foundation Level Extension –  Agile Tester Syllabus  .........................................  10  3.1  Business Outcomes ",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": ".................................................................................................................  10 ",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "3.2  Content ",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "....................................................................................................................................  10 ",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "4. ",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "References  ..........................................................................................................................................  12  4.1  Trademarks ",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": ".............................................................................................................................  12 ",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "4.2  Documents and Web Sites ",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": ".......................................................................................................  12 ",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Acknowledgements ",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Foundation Level Working Group. ",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "The Agile Extension team thanks the review team and the National Boards for their suggestions and input.  At the time the Foundation Level Agile Extension Syllabus was completed, the Agile Extension Working  Group had the following membership: Rex Black (Chair), Bertrand Cornanguer (Vice Chair), Gerry ",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Coleman (Learning Objectives Lead), Debra Friedenberg (Exam Lead), Alon Linetzki (Business Outcomes ",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "and Marketing Lead), Tauhida Parveen (Editor), and Leo van der Aalst (Development Lead). ",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Authors: Rex Black, Anders Claesson, Gerry Coleman, Bertrand Cornanguer, Istvan Forgacs, Alon  Linetzki, Tilo Linz, Leo van der Aalst, Marie Walsh, and Stephan Weber.  Internal Reviewers: Mette Bruhn-Pedersen, Christopher Clements, Alessandro Collino, Debra  Friedenberg, Kari Kakkonen, Beata Karpinska, Sammy Kolluru, Jennifer Leger, Thomas Mueller, Tuula  Pääkkönen, Meile Posthuma, Gabor Puhalla, Lloyd Roden, Marko Rytkönen, Monika Stoecklein-Olsen,  Robert Treffny, Chris Van Bael, and Erik van Veenendaal.  The team thanks also the following persons, from the National Boards and the Agile expert community,  who participated in reviewing, commenting, and balloting of the Foundation Agile Extension Syllabus: Dani  Almog, Richard Berns, Stephen Bird, Monika Bögge, Afeng Chai, Josephine Crawford, Tibor Csöndes,  Huba Demeter, Arnaud Foucal, Cyril Fumery, Kobi Halperin, Inga Hansen, Hanne Hinz, Jidong Hu, Phill  Isles, Shirley Itah, Martin Klonk, Kjell Lauren, Igal Levi, Rik Marselis, Johan Meivert, Armin Metzger, Peter  Morgan,  Ninna Morin,  Ingvar Nordstrom,  Chris  O’Dea,  Klaus  Olsen, Ismo  Paukamainen,  Nathalie Phung,  Helmut Pichler, Salvatore Reale, Stuart Reid, Hans Rombouts, Petri Säilynoja, Soile Sainio, Lars-Erik  Sandberg, Dakar Shalom, Jian Shen, Marco Sogliani, Lucjan Stapp, Yaron Tsubery, Sabine Uhde, ",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Stephanie Ulrich, Tommi Välimäki, Jurian Van de Laar, Marnix Van den Ent, António Vieira Melo, Wenye ",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Xu, Ester Zabar, Wenqiang Zheng, Peter Zimmerer, Stevan Zivanovic, and Terry Zuo. ",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "2014. ",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "1.  Introduction to the Foundation Level Extensions ",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "This overview document is intended for anyone with an interest in the ISTQB Foundation Level  Extensions who wants a high-level introduction to the leading principles and an overview of the individual  extension syllabi. ",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "From time to time, ISTQB will update this document to reflect any additional extensions that shall be  some time. New topics emerge due to technology and methodology changes in the market which often  are brought into the ISTQB program as new Expert Level syllabi. However, not all topics are suited for the  ISTQB program to incorporate new or updated knowledge. New extensions shall be discussed and ",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "The following Foundation Level Extension syllabus has been released:  Agile Tester ",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "In this document, each Foundation Level Extension syllabus is summarized and the associated Business  Outcomes are stated. The Business Outcomes communicate what can be expected from a person who ",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "achieves a Foundation Level Extension Certification in a particular subject area (e.g., Agile Tester), and ",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "level. ",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "2.  Introduction to Foundation Level Agile Tester Extension ",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "The certification for Foundation Level Extension –  Agile Tester is designed for professionals who are ",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "working within Agile environments. It is also for professionals who are planning to start implementing ",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "methodologies specific to their role.  2.1 Intended Audience  The Foundation Level Extension –  Agile Tester qualification is aimed at four main groups of professionals: ",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "1. Professionals who have achieved in-depth testing experience in traditional methods and would ",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "like to get an Agile Tester Certificate. ",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "2. Junior professional testers who are just starting in the testing profession, have received the ",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Foundation Level certificate, and would like to know more about ",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "tester’s  environment. ",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "3. Professionals who are relatively new to testing and are required to implement test approaches, ",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "methods and techniques in their day to day job in Agile projects. ",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "4. Professionals who are experienced in their role (including unit testing) and need more ",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "consultants, test managers, user acceptance testers, and software developers.  This Foundation Level Extension –  Agile Tester certification may also be appropriate for anyone who ",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "wants a deeper understanding of software testing in the Agile world, such as project managers, quality ",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "managers, software development managers, business analysts, IT directors, and management ",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "consultants. ",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "2.2 Career Paths for Testers ",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Building on the Foundation Level, the Agile Tester Extension supports the definition of career paths for  testing acquired at the Foundation Level to enable him or her to work effectively as a professional tester in ",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "an Agile project.  People possessing an ISTQB Foundation Level Extension –  Agile Tester certificate may use the Certified  Tester Foundation Level acronym CTFL-AT.  2.3 Learning Objectives  remember and recall terms and concepts stated in the Foundation Level syllabus. ",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "In addition, all Foundation Level syllabus learning objectives are examinable at the same K- level in an ",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "That said, each extension level exam focuses on the learning objectives defined in that extension  syllabus. The relevant learning objectives at K1, K2, and K3 levels are provided at the beginning of each ",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Software Testing  Foundation Level Extension –  Agile Tester  Qualifications Board  2.6 Keeping It Current ",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "www.istqb.org web site which refer to supporting documents, changes to standards and new occurrences ",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "3.  Overview of the Foundation Level Extension –  Agile Tester  Syllabus ",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Software Testing  Foundation Level Extension –  Agile Tester  Qualifications Board  Chapter 2: Fundamental Agile Testing Principles, Practices, and Processes  and non-Agile projects.  Agile projects.  testing in an Agile project, including test progress and product quality. ",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "explain why test automation is important to manage regression risk in Agile projects. ",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Chapter 3: Agile Testing Methods, Techniques, and Tools  driven development, and behavior-driven development.  levels and testing types. ",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "The tester should be able to assess quality risks within an Agile project.  The tester should be able to estimate testing effort based on iteration content and quality risks.  The tester should be able to interpret relevant information to support testing activities.  criteria.  Given a user story, the tester should be able to write acceptance test-driven development test  cases.  For both functional and non-functional behavior, the tester should be able to write test cases using ",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "black box test design techniques based on given user stories. ",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "The tester should be able to recall different tools available to testers according to their purpose ",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "4.  References ",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "4.1 Trademarks  is a registered trademark of the International Software Testing Qualifications Board  ISTQB  4.2 Documents and Web Sites  Identifier  Reference ",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "[ISTQB-Web] ",
+      "page": 11
+    }
+  ]
+}
